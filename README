@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution HTTP-CDN,
+version 0.7:
+
+  Serve static files with far-future expiry
+
+This software is copyright (c) 2012 by Martyn Smith.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
