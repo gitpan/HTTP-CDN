@@ -1,6 +1,6 @@
 package HTTP::CDN::CSS::LESSJS;
 {
-  $HTTP::CDN::CSS::LESSJS::VERSION = '0.7';
+  $HTTP::CDN::CSS::LESSJS::VERSION = '0.8';
 }
 
 use strict;

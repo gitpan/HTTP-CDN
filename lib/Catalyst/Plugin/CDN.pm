@@ -1,6 +1,6 @@
 package Catalyst::Plugin::CDN;
 {
-  $Catalyst::Plugin::CDN::VERSION = '0.7';
+  $Catalyst::Plugin::CDN::VERSION = '0.8';
 }
 
 use Moose::Role;

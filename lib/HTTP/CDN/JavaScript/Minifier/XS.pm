@@ -1,6 +1,6 @@
 package HTTP::CDN::JavaScript::Minifier::XS;
 {
-  $HTTP::CDN::JavaScript::Minifier::XS::VERSION = '0.7';
+  $HTTP::CDN::JavaScript::Minifier::XS::VERSION = '0.8';
 }
 
 use strict;
